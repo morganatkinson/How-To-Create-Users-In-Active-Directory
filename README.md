@@ -1,3 +1,7 @@
+Watch Me Create This Lab.
+
+https://www.loom.com/share/3747be945873451f8f8e1cf455473028
+
 [Uploading README (3).md…]()
 # How to Create Users in Active Directory
 
